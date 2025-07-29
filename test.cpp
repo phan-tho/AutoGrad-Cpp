@@ -1,5 +1,5 @@
-#include "phantho/Tensor.cpp"
-#include "phantho/helper.cpp"
+#include "src/Tensor.cpp"
+#include "src/helper.cpp"
 
 using namespace std;
 
